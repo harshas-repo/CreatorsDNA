@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!--
+    The favicon is the same double-helix mark `src/components/site/Wordmark.tsx`
+    draws in the header, copied path for path so the tab and the site carry one
+    identity.
+
+    The component strokes the helix with the `role-taste` and `role-brand`
+    custom properties and the rungs with `currentColor`. A standalone file has
+    no cascade to resolve those against, so the literals below are the token
+    values from `globals.css` section 1: cobalt 43 73 255 and coral 255 90 60,
+    with the rungs in ink 22 22 28 at the component's 0.55 opacity. If either
+    role token changes, this file must change with it.
+
+    Fixed colours rather than a `prefers-color-scheme` block: the mark sits on
+    browser chrome the site does not control, and both strands read on light and
+    dark tab strips as they are.
+
+    No double hyphen may appear anywhere inside this comment. XML forbids it,
+    and naming the two custom properties the way CSS does put one in here, which
+    made the whole file invalid XML: browsers parsed it to a zero-size image and
+    the tab fell back to a blank icon. Verified with an XML parser, not by eye.
+  -->
+  <path
+    d="M7 2c0 6 10 6 10 12S7 20 7 22"
+    fill="none"
+    stroke="#2b49ff"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <path
+    d="M17 2c0 6-10 6-10 12s10 6 10 8"
+    fill="none"
+    stroke="#ff5a3c"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <g stroke="#16161c" stroke-width="1.5" stroke-linecap="round" opacity="0.55">
+    <path d="M8.4 6.2h7.2" />
+    <path d="M9.6 10.4h4.8" />
+    <path d="M9.6 14.2h4.8" />
+    <path d="M8.4 18.2h7.2" />
+  </g>
+</svg>

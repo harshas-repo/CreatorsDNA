@@ -1,0 +1,355 @@
+{
+  "version": "1.0.0",
+  "attribution": "Brand names are real, publicly known companies included so partnership discovery has something concrete to work against. No brand has endorsed, approved or been contacted about CreatorsDNA. Descriptive metadata (website, description, imagery, popularity) is deliberately absent here: doc 02 §21 requires it to come from Qloo at runtime, never hand-written. Partnership routes are null until a curator verifies them against an official source — see notes on each entry.",
+  "brands": [
+    {
+      "slug": "nike",
+      "qlooEntityId": "C70CE2B8-0AD1-4150-BF18-5A6347F2E860",
+      "displayName": "Nike",
+      "category": "footwear",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator/athlete partnership route not yet verified against an official Nike source."
+      },
+      "notes": "Curator action required: locate the official creator or athlete partnership page on nike.com before any route is rendered."
+    },
+    {
+      "slug": "adidas",
+      "qlooEntityId": "FCEA7CA1-1D40-4680-B337-E74594D9BCF1",
+      "displayName": "adidas",
+      "category": "footwear",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required: verify the official creator programme URL."
+    },
+    {
+      "slug": "new-balance",
+      "qlooEntityId": "D271BA64-5A65-42E3-ADF2-7342222248BD",
+      "displayName": "New Balance",
+      "category": "footwear",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required: verify the official creator programme URL."
+    },
+    {
+      "slug": "patagonia",
+      "qlooEntityId": "DB4CE34E-3A63-4947-946F-9D52502C5762",
+      "displayName": "Patagonia",
+      "category": "apparel",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator/ambassador route not yet verified."
+      },
+      "notes": "Sustainability-led outdoor apparel. Curator action required before any route is rendered."
+    },
+    {
+      "slug": "carhartt-wip",
+      "displayName": "Carhartt WIP",
+      "category": "apparel",
+      "resolution": "unresolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Workwear-origin streetwear label. Curator action required."
+    },
+    {
+      "slug": "lululemon",
+      "qlooEntityId": "D9B9B404-7B35-4E4B-A0CE-4CAB8155FE9E",
+      "displayName": "Lululemon",
+      "category": "apparel",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Ambassador route not yet verified."
+      },
+      "notes": "Curator action required: verify the official ambassador programme URL."
+    },
+    {
+      "slug": "glossier",
+      "qlooEntityId": "742FBE1B-B70F-471F-AD07-A55C9A903628",
+      "displayName": "Glossier",
+      "category": "beauty",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Affiliate/creator route not yet verified."
+      },
+      "notes": "Curator action required: verify the official affiliate programme URL."
+    },
+    {
+      "slug": "the-ordinary",
+      "displayName": "The Ordinary",
+      "category": "beauty",
+      "resolution": "unresolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "oatly",
+      "qlooEntityId": "012081EE-E2BA-420E-9904-417CAF65214B",
+      "displayName": "Oatly",
+      "category": "food_beverage",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "athletic-brewing",
+      "qlooEntityId": "D962C4A9-93FB-433E-B11C-E9BF7029BFE5",
+      "displayName": "Athletic Brewing",
+      "category": "food_beverage",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Non-alcoholic craft beer. Curator action required."
+    },
+    {
+      "slug": "trade-coffee",
+      "qlooEntityId": "E61B426B-1AA3-4EB5-9F62-FED4737C2579",
+      "displayName": "Trade Coffee",
+      "category": "food_beverage",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Affiliate route not yet verified."
+      },
+      "notes": "Specialty coffee subscription. Curator action required."
+    },
+    {
+      "slug": "logitech",
+      "qlooEntityId": "B17B81E9-0DE4-4A82-B307-24F0161CF2AE",
+      "displayName": "Logitech",
+      "category": "consumer_tech",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "sonos",
+      "qlooEntityId": "9847B888-65A3-404C-82DB-80F37DB5DF59",
+      "displayName": "Sonos",
+      "category": "consumer_tech",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "razer",
+      "qlooEntityId": "D73F5D9A-6A4B-447F-9041-09813F22F85E",
+      "displayName": "Razer",
+      "category": "gaming",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "steelseries",
+      "qlooEntityId": "9C5B755A-1BCE-48F6-8890-A44ADE5E16BD",
+      "displayName": "SteelSeries",
+      "category": "gaming",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "polestar",
+      "qlooEntityId": "B88B2051-5405-46AB-B4D8-215E0715428A",
+      "displayName": "Polestar",
+      "category": "automotive",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Electric performance automotive. Curator action required."
+    },
+    {
+      "slug": "rivian",
+      "qlooEntityId": "0F0382E0-5ADD-41C3-A973-B7E613007F1A",
+      "displayName": "Rivian",
+      "category": "automotive",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Adventure-focused electric vehicles. Curator action required."
+    },
+    {
+      "slug": "monzo",
+      "qlooEntityId": "C8C4AC2D-020E-44AF-8352-2BE07D40FA79",
+      "displayName": "Monzo",
+      "category": "finance",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator/affiliate route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "wealthsimple",
+      "qlooEntityId": "F1B7F063-ACFA-4671-BA0F-773757551E10",
+      "displayName": "Wealthsimple",
+      "category": "finance",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "airbnb",
+      "qlooEntityId": "A5269DD4-5BCE-4EC7-BD50-355B29F3079F",
+      "displayName": "Airbnb",
+      "category": "travel",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "hostelworld",
+      "qlooEntityId": "B4F0E5F7-A2A4-49D9-9E9C-EA08C84F9BE5",
+      "displayName": "Hostelworld",
+      "category": "travel",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Affiliate route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "whoop",
+      "qlooEntityId": "B06F980E-A566-490E-B6B9-92F73F43602B",
+      "displayName": "WHOOP",
+      "category": "fitness",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Athlete/creator route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "garmin",
+      "qlooEntityId": "6D76F9E7-E567-4BC8-847B-0341F676BF1D",
+      "displayName": "Garmin",
+      "category": "fitness",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator/ambassador route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "spotify",
+      "qlooEntityId": "99CBD9B1-F023-4034-97E7-E95A4A85BDD2",
+      "displayName": "Spotify",
+      "category": "media_entertainment",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "audible",
+      "qlooEntityId": "2204EB7A-2385-42E9-B51D-EEC76EAA0C59",
+      "displayName": "Audible",
+      "category": "media_entertainment",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Affiliate route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "ikea",
+      "qlooEntityId": "7E9A2E74-1CB5-43E9-8B74-69CA8283BFBD",
+      "displayName": "IKEA",
+      "category": "home_lifestyle",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Curator action required."
+    },
+    {
+      "slug": "hay",
+      "qlooEntityId": "52C68410-550C-4AB5-8966-E1107D6D8EBD",
+      "displayName": "HAY",
+      "category": "home_lifestyle",
+      "resolution": "resolved",
+      "partnership": null,
+      "verification": {
+        "status": "not_verified",
+        "note": "Creator partnership route not yet verified."
+      },
+      "notes": "Danish design furniture. Curator action required."
+    }
+  ]
+}
